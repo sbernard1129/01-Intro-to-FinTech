@@ -24,19 +24,18 @@ As of 2018, Pitchbook had grown to over one thousand employees and revenue was $
 
 As a tool used primarily to help private equity and venture capital firms make decisions about investment opportunities, I would recommend the ability to sync with Salesforce CRM and export to LinkedIn SalesNavigator. This will allow VC and PE firms to easier connect with other companies or high net worth individuals through social media and help them communicate with new clients. This would use Salesfoce API and JSON. This would help firms’ investor relations locate and communicate new business opportunities over social media after using the data that Pitchbook provides. This would give clients another reason to use the software Pitchbook provides.
 
-**Sources**
-```
-*https://pitchbook.com/*
-https://www.seattlebusinessmag.com/executive-profiles/executive-qa-pitchbook-ceo-john-gabbert
-https://dealbook.nytimes.com/2009/09/29/morningstar-invests-in-pitchbook/?_r=0
-https://www.seattletimes.com/business/technology/morningstar-buys-seattle-startup-pitchbook-for-180-million/
-https://eng.chikawatanabe.com/2016/03/09/which-startup-database-is-better-comparing-cb-insights-pitchboo-privco-datafox-and-mattermark/
-https://macabacus.com/valuation/comparable-companies
-https://pitchbook.com/media/press-releases/powered-by-machine-learning-pitchbook-suggestions-helps-clients-discover-new-companies
-https://www.linkedin.com/public-profile/in/chinesetools?challengeId=AQFfg7to8EFtowAAAXTMPPjfcrbFq8HT1MBGlmtUQej1AYfDL6l0MrTR4ORNeiMjMRIMLQUqqv7Fq_R3AWcvauKkSY7vh0tcNQ&submissionId=06b10a4d-6d71-3816-2e05-e338b6515177
-https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/mckinseys-private-markets-annual-review
-https://www.forbes.com/sites/cognitiveworld/2019/05/02/data-driven-vcs-who-is-using-ai-to-be-a-better-and-smarter-investor/#199b6a571d34
-https://www.crunchbase.com/organization/datafox
-https://www.crunchbase.com/organization/pitchbook-data
-https://www.crunchbase.com/organization/privco
-```
+#### Sources
+
+* https://eng.chikawatanabe.com/2016/03/09/which-startup-database-is-better-comparing-cb-insights-pitchboo-privco-datafox-and-mattermark/
+* https://www.crunchbase.com/organization/datafox
+* https://www.crunchbase.com/organization/pitchbook-data
+* https://www.crunchbase.com/organization/privco
+* https://dealbook.nytimes.com/2009/09/29/morningstar-invests-in-pitchbook/?_r=0
+* https://www.forbes.com/sites/cognitiveworld/2019/05/02/data-driven-vcs-who-is-using-ai-to-be-a-better-and-smarter-investor/#199b6a571d34
+* https://www.linkedin.com/public-profile/in/chinesetools?challengeId=AQFfg7to8EFtowAAAXTMPPjfcrbFq8HT1MBGlmtUQej1AYfDL6l0MrTR4ORNeiMjMRIMLQUqqv7Fq_R3AWcvauKkSY7vh0tcNQ&submissionId=06b10a4d-6d71-3816-2e05-e338b6515177
+* https://macabacus.com/valuation/comparable-companies
+* https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/mckinseys-private-markets-annual-review
+* https://pitchbook.com/
+* https://pitchbook.com/media/press-releases/powered-by-machine-learning-pitchbook-suggestions-helps-clients-discover-new-companies
+* https://www.seattlebusinessmag.com/executive-profiles/executive-qa-pitchbook-ceo-john-gabbert
+* https://www.seattletimes.com/business/technology/morningstar-buys-seattle-startup-pitchbook-for-180-million/

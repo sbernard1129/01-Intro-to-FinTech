@@ -26,7 +26,7 @@ As a tool used primarily to help private equity and venture capital firms make d
 
 **Sources**
 ```
-https://pitchbook.com/research-process
+*https://pitchbook.com/*
 https://www.seattlebusinessmag.com/executive-profiles/executive-qa-pitchbook-ceo-john-gabbert
 https://dealbook.nytimes.com/2009/09/29/morningstar-invests-in-pitchbook/?_r=0
 https://www.seattletimes.com/business/technology/morningstar-buys-seattle-startup-pitchbook-for-180-million/
@@ -37,4 +37,6 @@ https://www.linkedin.com/public-profile/in/chinesetools?challengeId=AQFfg7to8EFt
 https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/mckinseys-private-markets-annual-review
 https://www.forbes.com/sites/cognitiveworld/2019/05/02/data-driven-vcs-who-is-using-ai-to-be-a-better-and-smarter-investor/#199b6a571d34
 https://www.crunchbase.com/organization/datafox
+https://www.crunchbase.com/organization/pitchbook-data
+https://www.crunchbase.com/organization/privco
 ```
